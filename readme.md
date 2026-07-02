@@ -1,7 +1,7 @@
 # 🌍 Outland Launcher
 
 <p align="center">
-  <img src="https://VOTRE-LOGO.png" alt="Outland Launcher" width="220"/>
+  <img src="[https://VOTRE-LOGO.png](https://zupimages.net/up/26/27/6plz.png)" alt="Outland Launcher" width="220"/>
 </p>
 
 <p align="center">
@@ -34,9 +34,6 @@ Consultez en temps réel si le serveur est en ligne.
 
 Visualisez le nombre de joueurs présents avant de vous connecter.
 
-### 📰 Patch Notes
-
-Accédez rapidement aux dernières mises à jour du serveur.
 
 ### 🗑️ Nettoyage automatique du cache
 
