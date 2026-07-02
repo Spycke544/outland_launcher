@@ -35,7 +35,7 @@ Consultez en temps réel si le serveur est en ligne.
 Visualisez le nombre de joueurs présents avant de vous connecter.
 
 
-### 🗑️ Nettoyage automatique du cache
+### 🗑️ Nettoyage du cache
 
 Supprimez facilement les fichiers temporaires FiveM afin d'éviter certains problèmes de connexion.
 
@@ -78,7 +78,7 @@ Téléchargez toujours la dernière version du launcher en quelques clics.
 
 # 🛠️ Fonction "Nettoyer le cache"
 
-Le launcher peut supprimer automatiquement :
+Le launcher peut supprimer :
 
 * Cache FiveM
 * Logs
