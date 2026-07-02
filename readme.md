@@ -14,7 +14,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 ![FiveM](https://img.shields.io/badge/FiveM-Compatible-orange?style=for-the-badge)
 [![Version](https://img.shields.io/github/v/release/Spycke544/outland_launcher?style=for-the-badge)](https://github.com/Spycke544/outland_launcher/releases)
-[![Downloads](https://img.shields.io/github/downloads/Spycke544/outland_launcher/total?style=for-the-badge)](https://github.com/Spycke544/outland_launcher/releases)
 
 </p>
 
