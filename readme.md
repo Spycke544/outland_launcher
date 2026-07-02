@@ -1,7 +1,7 @@
 # 🌍 Outland Launcher
 
 <p align="center">
-  <img src="[https://VOTRE-LOGO.png](https://zupimages.net/up/26/27/6plz.png)" alt="Outland Launcher" width="220"/>
+  <img src="https://zupimages.net/up/26/27/6plz.png" alt="Outland Launcher" width="220"/>
 </p>
 
 <p align="center">
